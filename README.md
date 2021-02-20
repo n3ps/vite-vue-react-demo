@@ -1,4 +1,11 @@
-# vue3-createapp-syntax-demo
+# vite-vue-react-demo
+
+Built with Vite, this is a demo of combining 2 instances of Vue and 1 instance of React on a single page.
+
+- Vite
+- Vue 3
+- React 17
+- Tailwind
 
 ## Project setup
 ```
@@ -14,11 +21,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
